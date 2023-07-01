@@ -1,1 +1,1 @@
-# python-proj-for-AI-DS
+# python-proj-for-DS
